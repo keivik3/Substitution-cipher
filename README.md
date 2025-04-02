@@ -50,7 +50,6 @@ This repository contains three Python scripts that implement different encryptio
 
 ### athenian.py:
 ```bash
-athenian.py
 > Введите текст: hello
 > Основной ключ: [3, 3]
 > Зашифрованный текст: dhuun
@@ -60,7 +59,6 @@ athenian.py
 
 ### simple.py:
 ```bash
-simple.py
 > Введите открытый текст: hello
 > Ключ: cdefghijklmnopqrstuvwxyzab
 > Зашифрованный текст: jgnnq
