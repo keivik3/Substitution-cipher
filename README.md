@@ -1,4 +1,4 @@
-# Encryption/Decryption Tools
+# Substitution cipher
 
 This repository contains three Python scripts that implement different encryption and decryption algorithms:
 
