@@ -46,26 +46,6 @@ This repository contains three Python scripts that implement different encryptio
   - Key must be a 26-character string representing the substitution alphabet
   - Default key is "cdefghijklmnopqrstuvwxyzab" (shift by 2)
 
-## Example Usage
-
-### athenian.py:
-```bash
-> Введите текст: hello
-> Основной ключ: [3, 3]
-> Зашифрованный текст: dhuun
-> Введите текст для расшифрования: dhuun
-> Расшифрованный текст: hello
-```
-
-### simple.py:
-```bash
-> Введите открытый текст: hello
-> Ключ: cdefghijklmnopqrstuvwxyzab
-> Зашифрованный текст: jgnnq
-> Введите зашифрованный текст: jgnnq
-> Расшифрованный текст: hello
-```
-
 ## Notes
 - All scripts work with lowercase English alphabet only
 - Non-alphabetic characters will cause errors
